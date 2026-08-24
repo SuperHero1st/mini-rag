@@ -1,6 +1,6 @@
 services:
   mongodb:
-    image: mongo:7-jammy
+    image: mongo:8.3-noble
 
     container_name: mongodb
 
